@@ -1,0 +1,38 @@
+.p1 {
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+.boton1 {
+    background-color: #5ee0ae;
+}
+
+.movie-details-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.movie-details {
+    padding-left: 20px; 
+}
+
+.details-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.details-left {
+    flex: 1;
+}
+
+.poster-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.poster {
+    width: 400px; 
+    height: auto;
+}
